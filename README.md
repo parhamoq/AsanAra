@@ -1,2 +1,2 @@
 # AsanAra
-A site for manage your life.
+The art of easy living.
